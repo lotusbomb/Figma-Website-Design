@@ -17,7 +17,7 @@
 }
 
 .header .material-symbols-outlined{
-    position: fixed;
+    position: absolute;
     border: 1.5px solid #FFFFFF;
     border-radius: 39px;
     border-style: none;
@@ -49,7 +49,7 @@
     font-weight: 500;
     line-height: 20px;
     margin-left: 70px;
-    padding-right: 90px;
+    margin-right: 35px;
 }
 
 .header .first{
@@ -98,9 +98,7 @@
     margin-left: 400px;
     justify-content: center;
     text-transform: capitalize;
-    font-stretch: extra-expanded;
     inline-size: 1000px;
-    letter-spacing: 0.1rem;
 }
 
 .middle button{
@@ -157,7 +155,7 @@
 }
 
 .images2{
-    padding-left: 250px;
+    margin-left: 200px;
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -178,7 +176,7 @@
 }
 
 .footer .submain2 p{
-    padding-top: 10px;
+    margin-top: 20px;
     font-weight: 200;
     font-size: 17px;
     color: #d7d7d7;
@@ -192,7 +190,7 @@
 .row .col{
     float: left;
     width: 33.33%;
-    padding-top: 30px;
+    margin-top: 40px;
 }
 
 .row:after {
@@ -202,14 +200,14 @@
 }
 
 .row .col p{
-    padding-top: 15px;
+    margin-top: 25px;
     color: #d7d7d7;
-    padding-right: 150px;
+    margin-right: 150px;
 }
 
 .row .col h3{
     font-size: 22px;
-    padding-top: 50px;
+    margin-top: 50px;
 }
 
 .row2 .col2{
