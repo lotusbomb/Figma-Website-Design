@@ -84,21 +84,21 @@
 
 .middle p{
     font-size: 30px;
-    padding-left: 270px;
-    padding-right: 271px;
+    margin-left: 300px;
+    margin-right: 371px;
     padding-top: 50px;
     justify-content: center;
-    font-stretch: extra-expanded;
     padding-bottom: 60px;
 }
 
 .middle h1{
     font-size: 50px;
-    padding-right: 270px;
-    margin-left: 400px;
+    margin-right: 300px;
+    margin-left: 397px;
+    text-align-last: center;
     justify-content: center;
     text-transform: capitalize;
-    inline-size: 1000px;
+    inline-size: 700px;
 }
 
 .middle button{
@@ -155,7 +155,7 @@
 }
 
 .images2{
-    margin-left: 200px;
+    margin-left: 170px;
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -219,7 +219,7 @@
 .table {
     padding: 50px;
     width: 1631px;
-    padding-left: 150px;
+    margin-left: 60px;
 }
 
 .table h1{
@@ -232,12 +232,16 @@
 }
 
 .table p{
-    padding-left: 40px;
+    margin-left: 40px;
     padding-top: 12px;
     justify-content: flex-start;
     padding-right: 40px;
     line-height: 26px;
     inline-size: 650px;
+}
+
+.table .ifu{
+    margin-left: 2px;
 }
 
 .table img {
