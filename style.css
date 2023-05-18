@@ -76,29 +76,29 @@
 .middle{
     padding-top: 100px;
     align-items: center;
-    padding-left: 100px;
-    padding-right: 100px;
+    /* margin-left: 100px;
+    margin-right: 100px; */
     justify-content: center;
     text-align: center;
 }
 
 .middle p{
     font-size: 30px;
-    margin-left: 300px;
-    margin-right: 371px;
+    margin-left: 397px;
     padding-top: 50px;
-    justify-content: center;
+    text-align: center;
+    inline-size: 1000px;
     padding-bottom: 60px;
 }
 
 .middle h1{
     font-size: 50px;
-    margin-right: 300px;
-    margin-left: 397px;
+    margin-left: 500px;
+    text-align: center;
     text-align-last: center;
     justify-content: center;
     text-transform: capitalize;
-    inline-size: 700px;
+    inline-size: 750px;
 }
 
 .middle button{
